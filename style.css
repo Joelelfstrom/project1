@@ -1,0 +1,15 @@
+/*
+author: Joel Elfström
+
+Contact:
+*/
+body {
+		background-color: #200;
+		color: #fff;
+		width: 100%;
+		
+	}
+	
+#container {
+	border: 1px solid #ff0000;
+}
