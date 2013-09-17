@@ -13,3 +13,11 @@ body {
 #container {
 	border: 1px solid #ff0000;
 }
+
+#menu li {
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #k00000;
+}
+
